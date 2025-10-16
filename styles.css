@@ -134,11 +134,11 @@ section {
     background: #f8f9fa;
     padding: 25px;
     border-radius: 12px;
-    border-left: 4px solid #667eea;
+    border-left: 5px solid #667eea;
 }
 
 section h3 {
-    color: #333;
+    color: #343;
     margin-bottom: 15px;
     font-size: 1.3rem;
 }
